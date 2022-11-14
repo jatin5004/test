@@ -1,5 +1,5 @@
 let num = 10;
-if(num%3===0){
-console.log("even");
+if(num%2===0){
+console.log("even num");
 } else {
-console.log("odd");
+console.log("odd num");
