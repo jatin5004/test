@@ -1,5 +1,6 @@
+ even_fun
 let num = 10;
 if(num%2===0){
-console.log("Even");
+console.log("even num");
 } else {
-console.log("Odd");
+console.log("odd num");
